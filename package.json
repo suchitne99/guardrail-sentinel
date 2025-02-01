@@ -1,0 +1,13 @@
+{
+  "name": "guardrail-sentinel",
+  "version": "1.2.0",
+  "description": "Ultra-Low Latency AI Guardrails & Prompt Injection Defense Engine (<12ms)",
+  "main": "dist/server.js",
+  "scripts": { "test": "node tests/guardrail.test.js" },
+  "author": "suchitne99 <suchit.ne99@gmail.com>",
+  "license": "MIT"
+}
+
+// v1.0.0 release
+
+// Release finalized
