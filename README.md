@@ -87,3 +87,5 @@ MIT © [Suchit Negi](https://github.com/suchitne99)
 <!-- Comparison table -->
 
 <!-- JailbreakBench v2 -->
+
+<!-- sync 2025-02-06 slot 1 -->
